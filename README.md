@@ -10,10 +10,6 @@
 - 📫 Cómo contactarme: linkedin.com/in/dalbert96.
 - ⚡ Dato curioso: Me encantan las aventuras de rol en los videojuegos.
 
-## Estadísticas
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api/?username=dalbert9615)](https://github.com/dalbert9615)
-
 ## Idiomas y Herramientas
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert9615)
