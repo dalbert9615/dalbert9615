@@ -16,7 +16,3 @@ Hello! I'm Carlos Alberto, an engineer passionate about programming.
 - [Calculator App](https://github.com/dalbert9615/CalculatorAppJavaMVC): Calculator application developed in Java (MVC).
 - [Web to Process Audio](https://github.com/dalbert9615/WebInterfaceToCompressAudio): Final engineering project focused on using a web interface to manipulate audio signals.
 - [Beast Generator](https://github.com/dalbert9615/BeastGenerator): Project for a mobile applications development course which utilized the beta API of DALL·E in 2022.
-
-## Languages and Tools
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert9615)
