@@ -1,22 +1,22 @@
-# Bienvenido a mi Perfil de GitHub! 👋
+# Welcome to my GitHub Profile! 👋
 
-¡Hola! Soy Carlos Alberto, un ingeniero apasionado por la programación. 
+Hello! I'm Carlos Alberto, an engineer passionate about programming.
 
-## Acerca de Mí
+## About Me
 
-- 🔭 Actualmente estoy trabajando en diferentes proyectos en Java con bases de datos MySQL.
-- 🌱 Estoy aprendiendo sobre bases de datos relacionales.
-- 💬 Pregúntame sobre electrónica, flujo de señal o audio.
-- 📫 Cómo contactarme: linkedin.com/in/dalbert96.
-- ⚡ Dato curioso: Me encantan las aventuras de rol en los videojuegos.
+- 🔭 Currently, I'm working on various projects in Java with MySQL databases.
+- 🌱 I'm learning about relational databases.
+- 💬 Ask me about electronics, signal flow, or audio.
+- 📫 How to reach me: linkedin.com/in/dalbert96.
+- ⚡ Fun fact: I love role-playing adventures in video games.
 
-## Proyectos Destacados
+## Featured Projects
 
-- [Catalog Searcher](https://github.com/dalbert9615/CatalogSearcherMVCjava): Buscador de un catálogo de items desarrollado en Java (MVC) con una pequeña base de datos en MySQL.
-- [Calculator App](https://github.com/dalbert9615/CalculatorAppJavaMVC): Aplicación de calculadora desarrollada en Java (MVC).
-- [Web to Process Audio](https://github.com/dalbert9615/WebInterfaceToCompressAudio): Proyecto de final de estudios de ingeniería enfocado a usar una web como interfaz para manipular señal de audio.
-- [Beast Generator](https://github.com/dalbert9615/BeastGenerator): Proyecto de una asignatura sobre desarrollo de aplicaciones móviles la cual usó la API beta de DALL·E en 2022.
+- [Catalog Searcher](https://github.com/dalbert9615/CatalogSearcherMVCjava): Search engine for a catalog of items developed in Java (MVC) with a small MySQL database.
+- [Calculator App](https://github.com/dalbert9615/CalculatorAppJavaMVC): Calculator application developed in Java (MVC).
+- [Web to Process Audio](https://github.com/dalbert9615/WebInterfaceToCompressAudio): Final engineering project focused on using a web interface to manipulate audio signals.
+- [Beast Generator](https://github.com/dalbert9615/BeastGenerator): Project for a mobile applications development course which utilized the beta API of DALL·E in 2022.
 
-## Idiomas y Herramientas
+## Languages and Tools
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert9615)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert9615)
