@@ -12,11 +12,11 @@
 
 ## Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dalbert96&show_icons=true)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api/?username=dalbert9615)](https://github.com/dalbert9615)
 
 ## Idiomas y Herramientas
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert96)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbert9615)
 
 ## Proyectos Destacados
 
